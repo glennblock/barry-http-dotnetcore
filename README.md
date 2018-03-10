@@ -1,4 +1,4 @@
-# barry-http-dotnetcore - NOPE, THAT'S TOO UNSECURE
+# The Barry HTTP Server - NOPE, THAT'S TOO UNSECURE
 
 ![barry-unauthorized](https://user-images.githubusercontent.com/141124/37240059-826ed7ca-23fa-11e8-877f-61db75d50e61.jpg)
 
