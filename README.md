@@ -13,20 +13,16 @@ All requests will be returned with a 403.
 ## FAQ
 
 ### Routes?
-
 Nope, that's too unsecure
 
 ### Any middleware support?
-
 Nope, that's too unsecure
 
 ### OAuth?
-
 Nope, that's too unsecure
 
 ### Content Negotiation?
-
-Though all HTTP is inherently unsecure, Barry HTTP will honor different HTTP clients including browsers, JSON, and text/plain, see screenshots below:
+Though all HTTP is inherently unsecure, Barry HTTP will honor different HTTP clients including browsers, `application/json`, and `text/plain`, see screenshots below:
 
 *text/plain*
 
@@ -41,7 +37,9 @@ Though all HTTP is inherently unsecure, Barry HTTP will honor different HTTP cli
 <img style="margin-left: 30px" width="500" src="https://user-images.githubusercontent.com/141124/37240059-826ed7ca-23fa-11e8-877f-61db75d50e61.jpg"/>
 
 ### Do you accept Pull Requests?
-
 Nope, that's too unsecure
+
+## License
+Apache 2.0
 
   
