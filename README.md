@@ -34,7 +34,7 @@ Though all HTTP is inherently unsecure, Barry HTTP will honor different HTTP cli
 
 *Everything else*
 
-<img style="margin-left: 30px" width="500" src="https://user-images.githubusercontent.com/141124/37240400-83e9ac74-23ff-11e8-88e2-b3ff8a9176e4.png"/>
+<img width="600" src="https://user-images.githubusercontent.com/141124/37240400-83e9ac74-23ff-11e8-88e2-b3ff8a9176e4.png"/>
 
 ### Do you accept Pull Requests?
 Nope, that's too unsecure
