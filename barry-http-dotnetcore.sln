@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "barry-http-dotnetcore", "barry-http-dotnetcore.csproj", "{1282C954-2225-4D76-BB5F-BF65BA9D9A82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1282C954-2225-4D76-BB5F-BF65BA9D9A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1282C954-2225-4D76-BB5F-BF65BA9D9A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1282C954-2225-4D76-BB5F-BF65BA9D9A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1282C954-2225-4D76-BB5F-BF65BA9D9A82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
