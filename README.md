@@ -26,7 +26,7 @@ Nope, that's too unsecure
 
 ### Content Negotiation?
 
-Though all HTTP in inherently unsaecure, Barry HTTP will honor different HTTP clients including browsers, JSON, and text/plain, see screenshots below:
+Though all HTTP is inherently unsecure, Barry HTTP will honor different HTTP clients including browsers, JSON, and text/plain, see screenshots below:
 
 *text/plain*
 
