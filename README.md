@@ -39,7 +39,7 @@ Though all HTTP is inherently unsecure, Barry HTTP will honor different HTTP cli
 <img width="600" src="https://user-images.githubusercontent.com/141124/37240400-83e9ac74-23ff-11e8-88e2-b3ff8a9176e4.png"/>
 
 ### Do you accept Pull Requests?
-Depends on if it is unsecure nor not. Changing the return status code is considered unsecure.
+Depends on if it is unsecure or not. Changing the return status code is considered unsecure.
 
 ## License
 Apache 2.0
